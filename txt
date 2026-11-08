@@ -1428,7 +1428,6 @@ CGTN记录,https://english-livebkali.cgtn.com/live/doccgtn.m3u8
 柳河综合,http://stream5.jlntv.cn/lh/playlist.m3u8
 
 未分类节目,#genre#
-阿斯达,http://192.151.153.90:36275
 BBS Buddhist Broadcasting (1080p),http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 14,https://stream.ads.ottera.tv/playlist.m3u8?network_id=14
 ABC News Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
@@ -1446,6 +1445,8 @@ BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 BBC Earth,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
 BBS佛教广播,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
+阿斯哈哈达,http://192.151.153.90:36275
+多工具发,http://192.151.153.90:45761
 BTN,http://btn.nowcdn.co.kr/btn/btnlive01/playlist.m3u8
 C,http://112.175.51.214:1935/live/myStream/playlist.m3u8
 CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
